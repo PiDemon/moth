@@ -1,5 +1,3 @@
-[![ContentDB](https://content.minetest.net/packages/cool_beans/moth/shields/downloads/)](https://content.minetest.net/packages/cool_beans/moth/)
-
 # Moth
 
 A simple mod for minetest which adds moths that can send messages (like in Lord of the Rings).
